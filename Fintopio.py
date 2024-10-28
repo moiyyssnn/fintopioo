@@ -1,5 +1,5 @@
 # FINTOPIO BOT
-# Author    : @fakinsit
+# Author    : @moiyyssnn
 # Date      : 30/08/24
 
 import os
@@ -40,11 +40,11 @@ def banner():
     print(r"""
 ╔═══════════════════════════════════════════╗
 ║              Bot Automation               ║
-║         Developed by @Airdrop_XID         ║
-║     Join here : https://t.me/UxScript     ║
+║         Developed by @moiyyssnn         ║
+║     Join here : Nooooooooooooo.!     ║
 ╚═══════════════════════════════════════════╝
-Donate here : Binance Id : 710691663
-              Dana/gopay : +62 851-7113-2802
+Note : don't sell
+              if you sell you r gay
           
           """)
 
@@ -253,7 +253,7 @@ def run_bot():
                         handle_asteroid_and_farming(token)
                         Log.success(f'Finished processing user: {Fore.YELLOW}@{username}{Fore.RESET}')
                         print('=' * 50)  # Line separator for clarity between users
-                        sleep(60)  # Wait 60 seconds between actions
+                        sleep(1200)  # Wait 1200 seconds between actions
                         success = True
                         break  # If successful, break out of the retry loop
                     else:
